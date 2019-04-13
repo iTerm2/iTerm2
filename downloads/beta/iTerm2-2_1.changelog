@@ -1,3 +1,0 @@
-- Fix a bug where paste didn't work on 32-bit machines.
-- Change role for URL handling from editor to shell.
-
